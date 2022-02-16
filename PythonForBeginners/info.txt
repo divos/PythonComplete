@@ -1,0 +1,2 @@
+Exercises from this URL
+https://docs.microsoft.com/en-us/learn/modules/python-create-run-jupyter-notebook/3-exercise-run-notebook
